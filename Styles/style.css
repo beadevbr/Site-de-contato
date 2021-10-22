@@ -196,7 +196,7 @@ header {
 #img_circle {
   /* position: absolute; */
   width: 300px;
-  height: 300px;
+  height: 30px;
   border-radius: 50%;
   border: 2px solid rgb(71, 71, 71);
   background-color: rgb(122, 122, 122);
