@@ -2,20 +2,11 @@
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/80279567/138468612-6e3bf9a2-12b5-4a86-93c2-609b8f8f007a.gif)
 
+## 📋 Sobre o Projeto
+<li>✔️ Responsivo
+<li>✔️ Design simples
+  
+# 💻 Tecnologias utilizadas
 
-<br>
-
-# Implementações:
-
-### <li> Menu animado ✔️
-
-### <li> Menu animado para smartphones ✔️
-
-### <li> Responsivo ✔️
-
-<br>
-
-# Tecnologias Ultilizadas:
-
-### <li> Html
-### <li> Css
+<li>HTML
+<li>CSS
